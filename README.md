@@ -9,5 +9,5 @@ Practice project, wrapper of stdio to enhance colorful formatting.
 
 
 ##Reference##
-1. `http://misc.flogisoft.com/bash/tip_colors_and_formatting`
-2. `http://www.ondrovo.com/article/57`
+1. http://misc.flogisoft.com/bash/tip_colors_and_formatting
+2. http://www.ondrovo.com/article/57
